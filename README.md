@@ -1,14 +1,9 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=200&section=header&text=Bem-vindo(a)%20ao%20meu%20perfil!&fontSize=30&fontColor=ffffff" alt="banner" />
-</p>
-
 ---
 
 #  Olá, seja bem-vindo(a)!
 
-Sou apaixonado por tecnologia e desenvolvimento web.   
-Atualmente estou aprimorando minhas habilidades e construindo projetos focados em soluções práticas e eficientes.
+Sou um desenvolvedor back-end autodidata com experiência em PHP, Laravel, Javascript, MySQL. No momento contribuo com projetos na parte de tratamento e consumo de APIs, e na integração e modelagem de Banco de Dados.
 
 ---
 
@@ -16,7 +11,6 @@ Atualmente estou aprimorando minhas habilidades e construindo projetos focados e
 
 - Focado em desenvolvimento de aplicações web modernas.
 - Sempre aprendendo novas tecnologias e boas práticas de programação.
-- Aberto a colaborações em projetos interessantes.
 
 ---
 
@@ -47,9 +41,8 @@ Atualmente estou aprimorando minhas habilidades e construindo projetos focados e
 
 | Projeto | Descrição |
 | :--- | :--- |
-| **[Projeto 1](#)** | Plataforma de agendamento online usando Laravel e MySQL. |
-| **[Projeto 2](#)** | Site institucional com HTML5, CSS3 e JavaScript puro. |
-| **[Projeto 3](#)** | API RESTful em PHP para gerenciamento de usuários. |
+| **[Projeto 1](https://github.com/Oliih/Sacrum)** | Sistema para automatizar a gestão das Paróquias. |
+| **[Projeto 2](https://github.com/kaue-f/MidnightKnowledge)** | Plataforma para registrar e compartilhar diversos tipos de obras, como animes, filmes e séries. |
 
 ---
 
@@ -77,7 +70,3 @@ Atualmente estou aprimorando minhas habilidades e construindo projetos focados e
 
 - ✉️ Email: matheusoliveira3633@outlook.com
 - 💼 LinkedIn: www.linkedin.com/in/matheus-dos-santos-oliveira-96824730b/
-
----
-
-⚡ **"Transformando ideias em código!"**
