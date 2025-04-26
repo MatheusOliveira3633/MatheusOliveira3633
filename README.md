@@ -14,13 +14,13 @@ Atualmente estou aprimorando minhas habilidades e construindo projetos focados e
 
 ## 🧠 Sobre Mim
 
-- 🎯 Focado em desenvolvimento de aplicações web modernas.
-- 📚 Sempre aprendendo novas tecnologias e boas práticas de programação.
-- 🤝 Aberto a colaborações em projetos interessantes.
+- Focado em desenvolvimento de aplicações web modernas.
+- Sempre aprendendo novas tecnologias e boas práticas de programação.
+- Aberto a colaborações em projetos interessantes.
 
 ---
 
-## 🚀 Skills
+## Skills
 
 ### Linguagens
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -56,15 +56,15 @@ Atualmente estou aprimorando minhas habilidades e construindo projetos focados e
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusOliveira3633&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SeuUsuarioGitHub&theme=tokyonight&hide_border=false" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MatheusOliveira3633&theme=tokyonight&hide_border=false" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeuUsuarioGitHub&theme=tokyonight" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusOliveira3633&theme=tokyonight" alt="activity graph" />
 </p>
 
 ---
@@ -72,7 +72,7 @@ Atualmente estou aprimorando minhas habilidades e construindo projetos focados e
 ## 📈 Contador de Visitantes
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SeuUsuarioGitHub&color=0d6efd&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MatheusOliveira3633&color=0d6efd&style=flat-square" alt="profile views" />
 </p>
 
 ---
