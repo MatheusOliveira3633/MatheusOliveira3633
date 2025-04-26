@@ -5,14 +5,14 @@
 
 ---
 
-# 👋 Olá, seja bem-vindo(a)!
+#  Olá, seja bem-vindo(a)!
 
-Sou apaixonado por tecnologia e desenvolvimento web. 💻  
+Sou apaixonado por tecnologia e desenvolvimento web.   
 Atualmente estou aprimorando minhas habilidades e construindo projetos focados em soluções práticas e eficientes.
 
 ---
 
-## 🧠 Sobre Mim
+## Sobre Mim
 
 - Focado em desenvolvimento de aplicações web modernas.
 - Sempre aprendendo novas tecnologias e boas práticas de programação.
@@ -60,10 +60,6 @@ Atualmente estou aprimorando minhas habilidades e construindo projetos focados e
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MatheusOliveira3633&theme=tokyonight&hide_border=false" alt="streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusOliveira3633&theme=tokyonight" alt="activity graph" />
 </p>
 
@@ -79,9 +75,8 @@ Atualmente estou aprimorando minhas habilidades e construindo projetos focados e
 
 ## 📫 Contato
 
-- ✉️ Email: seuemail@example.com
-- 💼 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/)
-- 💻 GitHub: [Seu GitHub](https://github.com/)
+- ✉️ Email: matheusoliveira3633@outlook.com
+- 💼 LinkedIn: www.linkedin.com/in/matheus-dos-santos-oliveira-96824730b/
 
 ---
 
