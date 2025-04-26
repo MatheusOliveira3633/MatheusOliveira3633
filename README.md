@@ -41,8 +41,8 @@ Sou um desenvolvedor back-end autodidata com experiência em PHP, Laravel, Javas
 
 | Projeto | Descrição |
 | :--- | :--- |
-| **[Projeto 1](https://github.com/Oliih/Sacrum)** | Sistema para automatizar a gestão das Paróquias. |
-| **[Projeto 2](https://github.com/kaue-f/MidnightKnowledge)** | Plataforma para registrar e compartilhar diversos tipos de obras, como animes, filmes e séries. |
+| **[Sacrum](https://github.com/Oliih/Sacrum)** | Sistema para automatizar a gestão das Paróquias. |
+| **[MidnightKnowledge](https://github.com/kaue-f/MidnightKnowledge)** | Plataforma para registrar e compartilhar diversos tipos de obras, como animes, filmes e séries. |
 
 ---
 
